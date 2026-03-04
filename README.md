@@ -6,7 +6,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ## Try it Out
 
-You can test the authentication by logging into the application with the demo credentials below.
+You can test the authentication by logging into the application with the [demo](https://next-learn-dashboard-madinajumalys-projects.vercel.app/) credentials below.
 
 **Email:** user@nextmail.com  
 **Password:** 123456
